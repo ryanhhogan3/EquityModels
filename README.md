@@ -1,3 +1,5 @@
+![EM logo](/images/afoiurml384752md.png)
+
 <h1> EquityModels
 <h4> A notebook of various models to facilitate the valuations of various equities. Use this repository to help in the process of determining the intrinsic value of all different types of stocks. 
 
