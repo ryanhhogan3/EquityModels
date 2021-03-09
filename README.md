@@ -12,3 +12,6 @@
 
 
 Happy coding!
+
+
+* Ryan Hogan - This is a work in progress and should not be used for financial or investment decision making...
