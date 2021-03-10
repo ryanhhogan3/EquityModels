@@ -8,7 +8,7 @@
  <h4> Gordon (Constant) Growth Model
  <h4> Multi-Stage Dividend Discount Model
  <h4> Multiplier Models
- <h4> Asset-Based Valuation Models
+ <h4> Asset-Based Valuation Models </h4>
 
 
 Happy coding!
