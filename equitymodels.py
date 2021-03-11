@@ -21,3 +21,9 @@ def twoyearmodel(saleprice, dividend1, dividend2, costofequity):
     price2 = round(price * 1.05, 2)
     print(f"Based on the Two Year Holding Model, this stock's price is valued between: {price1} and {price2}.")
     
+### Free Cash Flow Model (uses same formula as GordonGrowth, substitutes dividends with Free Cash Flow per share)
+def Freecashflowmodel(FCFpershare, costofequity, growthrate):
+    price = FCFpershare / (costofequity - growthrate)
+    price1 = round(price * .95, 2)
+    price2 = round(price * 1.05, 2)
+    print(f"Based on the Free Cash Flow Model, this stock's price is valued between: {price1} and {price2}.")
