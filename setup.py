@@ -6,7 +6,7 @@ setup(
     author='Ryan Hogan',
     author_email='ryanhhogan@gmail.com',
     description='A library containing various equity price modeling equations',
-    long_description=read('README.md'),
+    long_description=('README.md'),
     long_description_content_type="text/markdown",
     license='MIT',
     keywords=[],
