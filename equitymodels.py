@@ -1,4 +1,4 @@
-### This is the interworkings and mathematics behind the equity models
+### This is the interworkings and mathematics behind some simple equity models
 
 ### Gordon (Constant) Growth Model module ###
 def Gordongrowth(dividend, costofequity, growthrate):
