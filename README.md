@@ -9,6 +9,11 @@
  <h4> Multi-Stage Dividend Discount Model
  <h4> Multiplier Models
  <h4> Asset-Based Valuation Models </h4>
+ <h4> Asset-Based Valuation Models </h4>
+ <h4> Historical Price and Volume Plotting </h4>
+ <h4> Yearly Aggregated Returns Tile Chart </h4>
+ <h4> Relative Strength Indicator (RSI) Visualizer </h4>
+ <h4> Statisitcs For Given Equity Securitiy </h4>
 
 
 Happy coding!
